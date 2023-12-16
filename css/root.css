@@ -1,0 +1,25 @@
+:root {
+  --font-family: Roboto, Arial, sans-serif;
+  /* 'Open Sans', sans-serif */
+
+  --background: rgb(245,245,245);  /*grigio molto chiaro*/
+  --hover: rgb(216, 217, 218);
+
+  --fs:     14px;
+  --fs-b:   16px;
+  --fs-bb:  20px;
+  --title:  30px;
+
+  /* quartz_logo colors */
+  --white: rgb(255,255,255);  /*bianco*/
+  --red:   rgb(219, 33, 51);  /*rosso*/
+  --dark:  rgb(73, 74, 76);   /*grigio scuro*/
+  --light: rgb(163,165,168);  /*grigio chiaro*/
+
+
+  /* non utilizzati*/
+  --green:     #4CAF50;  /*verde*/
+  --lightblue: #2196F3;  /*azzurro*/
+  --yellow:    #ff9800;  /*giallo*/
+  --grey:      #e7e7e7;  /*grigio*/
+}
