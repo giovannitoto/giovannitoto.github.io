@@ -59,4 +59,4 @@ Talks & Posters
 
 Full CV
 ------
-See my full CV [here](/files/CV.pdf).
+See my full CV [here](/files/TotoGiovanni_CV.pdf).
