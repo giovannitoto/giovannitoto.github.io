@@ -3,8 +3,10 @@ permalink: /talks/
 title: "Talks and Posters"
 author_profile: true
 redirect_from: 
-  - "/talks/"
+  - "/talks.md"
   - "/talks.html"
+  - "/posters.md"
+  - "/posters.html"
 ---
 
 Contributed talks
