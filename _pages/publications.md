@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
+redirect_from: 
+  - "/publications/"
+  - "/publications.html"
 ---
 
 * Li, Q., Stefani, A., **Toto, G.**, Di Buccio, E., & Melucci, M. (2020). Towards multimodal sentiment analysis inspired by the quantum theoretical framework. *3rd IEEE Conference on Multimedia Information Processing and Retrieval*, *MIPR 2020*, Shenzhen, China, August 6-8, 2020, 177–180. [link](https://ieeexplore.ieee.org/abstract/document/9175513)
