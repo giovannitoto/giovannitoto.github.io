@@ -15,5 +15,5 @@ Contributed talks
 Posters
 ------
 
-* Poster: Local Bayesian clustering for functional data; BAYSM 2024, Venice, Italy (June 2024).
-* Poster: Local Bayesian clustering for functional data; ISBA 2024, Venice, Italy (July 2024).
+* Local Bayesian clustering for functional data; BAYSM 2024, Venice, Italy (June 2024).
+* Local Bayesian clustering for functional data; ISBA 2024, Venice, Italy (July 2024).
