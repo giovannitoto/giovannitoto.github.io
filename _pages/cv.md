@@ -44,19 +44,6 @@ Research activities
   * <ins>Supervisor</ins>: Massimo Melucci
   * <ins>Duties</ins>: Design and implementation of a graphical interface allowing real-time analysis of opinions expressed in a video through multimodal sentiment analysis.
 
-Publications
-------
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks & Posters
-------
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
-
 Full CV
 ------
 See my full CV [here](/files/TotoGiovanni_CV.pdf).
